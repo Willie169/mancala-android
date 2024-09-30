@@ -3,9 +3,9 @@ Mancala is a traditional board game that involves strategy, counting, and some l
 ## Installation
 Download the APK file with [https://raw.githubusercontent.com/Willie169/mancala-android/main/com.willie.mancala_1.0.apk](https://raw.githubusercontent.com/Willie169/mancala-android/main/com.willie.mancala_1.0.apk).
 ## App Screenshots
-![u1.jpg](https://github.com/Willie169/mancala-android/tree/main/asset/u1.jpg)
-![u2.jpg](https://github.com/Willie169/mancala-android/tree/main/asset/u2.jpg)
-![u3.jpg](https://github.com/Willie169/mancala-android/tree/main/asset/u3.jpg)
+![assets/u1.jpg](assets/u1.jpg)
+![assets/u2.jpg](assets/u2.jpg)
+![assets/u3.jpg](assets/u3.jpg)
 ## Requirements
 Minimum Android version: API 21 (Android 5.0, Lollipop)
 ## Mancala Rules

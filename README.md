@@ -3,7 +3,7 @@ Mancala is a traditional board game that involves strategy, counting, and some l
 For the implementation for CLI, see [mancala-cli](https://github.com/Willie169/mancala-cli).
 ## Installation
 <!-- [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.svg" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/com.willie.mancala) -->
-[<img src="https://github.com/Kunzisoft/Github-badge/raw/main/get-it-on-github.svg" alt="Get it on F-Droid" height="80">](https://raw.githubusercontent.com/Willie169/mancala-android/main/com.willie.mancala_1.0.apk)
+[<img src="https://github.com/Kunzisoft/Github-badge/raw/main/get-it-on-github.svg" alt="Get it on F-Droid" height="80">](https://objects.githubusercontent.com/github-production-release-asset-2e65be/865421482/3e203c77-314a-451a-b799-81fea496a38e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241001%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241001T160407Z&X-Amz-Expires=300&X-Amz-Signature=769a74db6b6107e750af56dba15a1c5097eca5527457446b72eef297430a7b5f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dcom.willie.mancala.apk&response-content-type=application%2Fvnd.android.package-archive)
 ## App Screenshots
 ![assets/ui1.jpg](assets/ui1.jpg)
 ![assets/ui2.jpg](assets/ui2.jpg)

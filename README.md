@@ -1,7 +1,8 @@
 # mancala-android
 Mancala is a traditional board game that involves strategy, counting, and some luck. This implementation of Mancala is developed for Android, allowing players to enjoy the game on their mobile devices.
 ## Installation
-Download the APK file with [https://raw.githubusercontent.com/Willie169/mancala-android/main/com.willie.mancala_1.0.apk](https://raw.githubusercontent.com/Willie169/mancala-android/main/com.willie.mancala_1.0.apk).
+<!-- [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.svg" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/com.willie.mancala) -->
+[<img src="https://github.com/Kunzisoft/Github-badge/raw/main/get-it-on-github.svg" alt="Get it on F-Droid" height="80">](https://raw.githubusercontent.com/Willie169/mancala-android/main/com.willie.mancala_1.0.apk)
 ## App Screenshots
 ![assets/ui1.jpg](assets/ui1.jpg)
 ![assets/ui2.jpg](assets/ui2.jpg)

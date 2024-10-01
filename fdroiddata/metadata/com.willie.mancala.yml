@@ -7,10 +7,19 @@ Changelog: https://github.com/Willie169/mancala-android/releases
 AutoName: Mancala
 RepoType: git
 Repo: https://github.com/Willie169/mancala-android.git
+app_id: com.willie.mancala
 Builds:
-  - versionName: 1.0
+  - versionName: '1.0'
     versionCode: 1
     commit: 833f0f9757b3e7444d3ae3a068d9fccd8f269510
     subdir: app
+    sudo:
+      - apt-get update
+      - apt-get install -y librsvg2-bin openjdk-17-jdk-headless
+      - update-alternatives --auto java
     gradle:
       - yes
+AutoUpdateMode: Version
+UpdateCheckMode: Release
+CurrentVersion: '1.0'
+CurrentVersionCode: 1

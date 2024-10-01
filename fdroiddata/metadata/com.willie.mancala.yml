@@ -10,8 +10,8 @@ Repo: https://github.com/Willie169/mancala-android.git
 app_id: com.willie.mancala
 Builds:
   - versionName: '1.0'
-    versionCode: 1
-    commit: 833f0f9757b3e7444d3ae3a068d9fccd8f269510
+    versionCode: 10
+    commit: 50a479d25009082e35642606f71808ca9703b64e
     subdir: app
     sudo:
       - apt-get update
@@ -22,4 +22,4 @@ Builds:
 AutoUpdateMode: Version
 UpdateCheckMode: Release
 CurrentVersion: '1.0'
-CurrentVersionCode: 1
+CurrentVersionCode: 10

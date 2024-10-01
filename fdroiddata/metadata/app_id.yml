@@ -1,0 +1,16 @@
+Categories:
+  - Game
+License: AGPL-3.0-or-later
+SourceCode: https://github.com/Willie169/mancala-android
+IssueTracker: https://github.com/Willie169/mancala-android/issues
+Changelog: https://github.com/Willie169/mancala-android/releases
+AutoName: Mancala
+RepoType: git
+Repo: https://github.com/Willie169/mancala-android.git
+Builds:
+  - versionName: 1.0
+    versionCode: 1
+    commit: 833f0f9757b3e7444d3ae3a068d9fccd8f269510
+    subdir: app
+    gradle:
+      - yes

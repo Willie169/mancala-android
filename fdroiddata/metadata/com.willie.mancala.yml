@@ -11,7 +11,7 @@ app_id: com.willie.mancala
 Builds:
   - versionName: '1.0'
     versionCode: 10
-    commit: 50a479d25009082e35642606f71808ca9703b64e
+    commit: 30dacf92df645c082b3efd634a2cda98b8027984
     subdir: app
     sudo:
       - apt-get update

@@ -1,17 +1,21 @@
 Categories:
   - Game
+AuthorName: WilliePIS
+Name: Mancala
 License: AGPL-3.0-or-later
 SourceCode: https://github.com/Willie169/mancala-android
 IssueTracker: https://github.com/Willie169/mancala-android/issues
 Changelog: https://github.com/Willie169/mancala-android/releases
-AutoName: Mancala
+Bitcoin: bc1qm7fuvza2tktvjzfmvf37vw6yft5ntd2u5gh9l0
+Summary: Mancala Game
+Description: Mancala is a traditional board game that involves strategy, counting, and some luck. This implementation of Mancala is developed for Android, allowing players to enjoy the game on their mobile devices. For the command-line interface (CLI) implementation, see https://github.com/Willie169/mancala-cli.
 RepoType: git
 Repo: https://github.com/Willie169/mancala-android.git
-app_id: com.willie.mancala
+Binaries: https://raw.githubusercontent.com/Willie169/mancala-android/main/com.willie.mancala_1.0.apk
 Builds:
   - versionName: '1.0'
     versionCode: 10
-    commit: 30dacf92df645c082b3efd634a2cda98b8027984
+    commit: 4a2c16b26b5cb1319e0646c484472ab63c75e832
     subdir: app
     sudo:
       - apt-get update
@@ -20,6 +24,6 @@ Builds:
     gradle:
       - yes
 AutoUpdateMode: Version
-UpdateCheckMode: Release
+UpdateCheckMode: Tags
 CurrentVersion: '1.0'
 CurrentVersionCode: 10

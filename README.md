@@ -1,4 +1,4 @@
-<!-- ![fdroidRelease](https://img.shields.io/f-droid/v/com.willie.mancala.svg?logo=F-Droid) -->
+<!-- ![fdroidRelease](https://img.shields.io/f-droid/com.willie.mancala.svg?logo=F-Droid) -->
 ![ghRelease](https://img.shields.io/github/release/Willie169/mancala-android.svg?logo=github)
 ![License](https://img.shields.io/badge/License-AGPLv3-blue.svg)
 # mancala-android

@@ -8,9 +8,9 @@ For the implementation for CLI, see [mancala-cli](https://github.com/Willie169/m
 <!-- [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.svg" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/com.willie.mancala) -->
 [<img src="https://github.com/Kunzisoft/Github-badge/raw/main/get-it-on-github.svg" alt="Get it on GitHub" height="80">](https://raw.githubusercontent.com/Willie169/mancala-android/main/com.willie.mancala_1.0.apk)
 ## App Screenshots
-![ui1.jpg](fastline/metadata/android/en-US/phoneScreenshots/ui1.jpg)
-![ui2.jpg](fastline/metadata/android/en-US/phoneScreenshots/ui2.jpg)
-![ui3.jpg](fastline/metadata/android/en-US/phoneScreenshots/ui3.jpg)
+![ui1.jpg](fastline/metadata/android/en-US/images/phoneScreenshots/ui1.jpg)
+![ui2.jpg](fastline/metadata/android/en-US/images/phoneScreenshots/ui2.jpg)
+![ui3.jpg](fastline/metadata/android/en-US/images/phoneScreenshots/ui3.jpg)
 ## Requirements
 Minimum Android version: API 21 (Android 5.0, Lollipop)
 ## Mancala Rules

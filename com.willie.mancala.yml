@@ -15,7 +15,7 @@ Binaries: https://raw.githubusercontent.com/Willie169/mancala-android/main/com.w
 Builds:
   - versionName: '1.0'
     versionCode: 10
-    commit: f8c2f0177ef9eaf68a57fc22853db2bc6dedcf21
+    commit: b08adb34026816ac59a739f98ad2badcb02b62d9
     subdir: app
     sudo:
       - apt-get update

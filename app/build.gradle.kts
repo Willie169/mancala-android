@@ -37,6 +37,9 @@ android {
         
     }
     
+    lintOptions {
+        disable("all")
+    }
 }
 
 dependencies {

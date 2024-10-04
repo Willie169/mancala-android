@@ -1,6 +1,6 @@
 <!-- ![fdroidRelease](https://img.shields.io/f-droid/v/com.willie.mancala.svg?logo=F-Droid) -->
 ![ghRelease](https://img.shields.io/github/v/release/Willie169/mancala-android)
-![License](https://img.shields.io/badge/License-AGPLv3-blue.svg)
+![License](https://img.shields.io/badge/license-AGPLv3-blue.svg)
 # mancala-android
 Mancala is a traditional board game that involves strategy, counting, and some luck. This implementation of Mancala is developed for Android, allowing players to enjoy the game on their mobile devices.\
 For the implementation for CLI, see [mancala-cli](https://github.com/Willie169/mancala-cli).

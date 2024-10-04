@@ -1,3 +1,6 @@
+<!-- ![fdroidRelease](https://img.shields.io/f-droid/v/com.willie.mancala.svg?logo=F-Droid) -->
+![ghRelease](https://img.shields.io/github/release/Willie169/mancala-android.svg?logo=github)
+![License](https://img.shields.io/badge/License-AGPLv3-blue.svg)
 # mancala-android
 Mancala is a traditional board game that involves strategy, counting, and some luck. This implementation of Mancala is developed for Android, allowing players to enjoy the game on their mobile devices.\
 For the implementation for CLI, see [mancala-cli](https://github.com/Willie169/mancala-cli).
@@ -5,9 +8,9 @@ For the implementation for CLI, see [mancala-cli](https://github.com/Willie169/m
 <!-- [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.svg" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/com.willie.mancala) -->
 [<img src="https://github.com/Kunzisoft/Github-badge/raw/main/get-it-on-github.svg" alt="Get it on GitHub" height="80">](https://raw.githubusercontent.com/Willie169/mancala-android/main/com.willie.mancala_1.0.apk)
 ## App Screenshots
-![assets/ui1.jpg](assets/ui1.jpg)
-![assets/ui2.jpg](assets/ui2.jpg)
-![assets/ui3.jpg](assets/ui3.jpg)
+![ui1.jpg](fastline/metadata/android/en-US/phoneScreenshots/ui1.jpg)
+![ui2.jpg](fastline/metadata/android/en-US/phoneScreenshots/ui2.jpg)
+![ui3.jpg](fastline/metadata/android/en-US/phoneScreenshots/ui3.jpg)
 ## Requirements
 Minimum Android version: API 21 (Android 5.0, Lollipop)
 ## Mancala Rules

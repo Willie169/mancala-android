@@ -11,7 +11,6 @@ AutoName: Mancala
 
 RepoType: git
 Repo: https://github.com/Willie169/mancala-android.git
-Binaries: https://github.com/Willie169/mancala-android/releases/download/v%v/com.willie.mancala_%c.apk
 
 Builds:
   - versionName: '1.0'
@@ -21,7 +20,7 @@ Builds:
     gradle:
       - yes
 
-AllowedAPKSigningKeys: 2d6e6988b321dd64e6982b97f3b20ef77ebb5bc4738b7767b47288b77033aa20
+AllowedAPKSigningKeys: cee6e3506b12be496577b9d7641330f9b9880de37037cf030c5d6d8bf1f757ef
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags

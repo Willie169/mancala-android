@@ -7,7 +7,7 @@ Mancala is a traditional board game that involves strategy, counting, and some l
 For the implementation for CLI, see [mancala-cli](https://github.com/Willie169/mancala-cli).
 ## Installation
 <!-- [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.svg" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/com.willie.mancala) -->
-[<img src="https://github.com/Kunzisoft/Github-badge/raw/main/get-it-on-github.svg" alt="Get it on GitHub" height="80">](https://github.com/Willie169/mancala-android/releases/download/v%v/com.willie.mancala_%c.apk)
+[<img src="https://github.com/Kunzisoft/Github-badge/raw/main/get-it-on-github.svg" alt="Get it on GitHub" height="80">](https://github.com/Willie169/mancala-android/releases/download/v1.0/com.willie.mancala_10.apk)
 ## App Screenshots
 ![ui1.jpg](fastlane/metadata/android/en-US/images/phoneScreenshots/ui1.jpg)
 ![ui2.jpg](fastlane/metadata/android/en-US/images/phoneScreenshots/ui2.jpg)

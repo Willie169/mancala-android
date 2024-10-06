@@ -11,11 +11,12 @@ AutoName: Mancala
 
 RepoType: git
 Repo: https://github.com/Willie169/mancala-android.git
+Binaries: https://github.com/Willie169/mancala-android/releases/download/v%v/com.willie.mancala_%c.apk
 
 Builds:
   - versionName: '1.0'
     versionCode: 10
-    commit: c4071b200609b33a3b684ce28dba35cb5ed4ef95
+    commit: 2c953f3880f5e0a130bc7527a59c84f9aa6be32a
     subdir: app
     gradle:
       - yes

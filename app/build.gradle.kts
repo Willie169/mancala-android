@@ -16,7 +16,7 @@ android {
         versionName = "1.0"
         
         vectorDrawables { 
-            useSupportLibrary = true
+            useSupportLibrary = false
         }
     }
     

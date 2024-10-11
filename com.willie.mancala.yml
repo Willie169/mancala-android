@@ -16,7 +16,7 @@ Binaries: https://github.com/Willie169/mancala-android/releases/download/v%v/com
 Builds:
   - versionName: '1.0'
     versionCode: 10
-    commit: ff3eb1023f66539f680cbdcbe97f6f819fba639b
+    commit: 84b0847c99aae3abf3b8036c27304863c250e286
     subdir: app
     gradle:
       - yes

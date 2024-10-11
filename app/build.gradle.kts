@@ -1,7 +1,6 @@
 
 plugins {
     id("com.android.application")
-    
 }
 
 android {
@@ -15,8 +14,8 @@ android {
         versionCode = 10
         versionName = "1.0"
         
-        vectorDrawables { 
-            useSupportLibrary = false
+        vectorDrawables {
+            useSupportLibrary = true
         }
     }
     
@@ -28,13 +27,12 @@ android {
     buildTypes {
         release {
             isMinifyEnabled = true
-            proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
+            aaptOptions.cruncherEnabled = false
         }
     }
 
     buildFeatures {
         viewBinding = true
-        
     }
     
     lintOptions {
@@ -43,8 +41,6 @@ android {
 }
 
 dependencies {
-
-
     implementation("com.google.android.material:material:1.9.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation("androidx.appcompat:appcompat:1.6.1")

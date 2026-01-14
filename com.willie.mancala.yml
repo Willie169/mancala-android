@@ -11,15 +11,15 @@ AutoName: Mancala
 
 RepoType: git
 Repo: https://github.com/Willie169/mancala-android.git
-Binaries: https://github.com/Willie169/mancala-android/releases/download/v%v/com.willie.mancala_%c.apk
 
 Builds:
   - versionName: '1.2'
     versionCode: 12
-    commit:
+    versionTag: v1.2
     subdir: app
     gradle:
-      - yes
+      root: app
+      tasks: assembleRelease
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags

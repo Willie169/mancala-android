@@ -31,6 +31,9 @@ Minimum Android version: API 21 (Android 5.0, Lollipop)
 8. The game ends when all pits on one side are empty. The remaining seeds are moved to the respective stores.
 9. The player with the most seeds in their store at the end of the game wins.
 10. If both players have the same number of seeds in their stores, the game is a tie.
+## Change Log
+- Version 1.1: initial release.
+- Version 1.2: update to API 36.
 ## Credits
 ### AndroidIDE by AndroidIDE / AndroidIDEOfficial
 - GitHub: [https://github.com/AndroidIDEOfficial/AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE).
@@ -39,7 +42,3 @@ Minimum Android version: API 21 (Android 5.0, Lollipop)
 - Official website: [https://chatgpt.com/](https://chatgpt.com/).
 ## Contribution
 We welcome contributions to this project! Please fork the repository and submit a pull request for your contributions. For clarity and convenience, we recommend making one pull request per revised section or added feature.
-## License
-Copyright (C) 2024 [Willie169](https://github.com/Willie169).\
-This project is licensed under the terms of the **GNU AFFERO GENERAL PUBLIC LICENSE**, Version 3.0.\
-You should have received a copy of the GNU Affero General Public License along with this software. If not, see [https://www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html).

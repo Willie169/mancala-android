@@ -18,8 +18,7 @@ Builds:
     versionTag: v1.2
     subdir: app
     gradle:
-      root: app
-      tasks: assembleRelease
+      - yes
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags

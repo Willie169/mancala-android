@@ -15,7 +15,7 @@ Repo: https://github.com/Willie169/mancala-android.git
 Builds:
   - versionName: '1.2'
     versionCode: 12
-    versionTag: v1.2
+    commit: c37e905a3eb7e019583fcc491e15623623cf6627
     subdir: app
     gradle:
       - yes

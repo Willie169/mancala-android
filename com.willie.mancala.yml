@@ -13,6 +13,13 @@ RepoType: git
 Repo: https://github.com/Willie169/mancala-android.git
 
 Builds:
+  - versionName: '1.1'
+    versionCode: 11
+    commit: 4c2b69ae9b7c2057b57e16ee1647f837ceb96832
+    subdir: app
+    gradle:
+      - yes
+
   - versionName: '1.2'
     versionCode: 12
     commit: c37e905a3eb7e019583fcc491e15623623cf6627

@@ -1,6 +1,6 @@
 apksigner sign \
   --ks /home/willie/willie-release-key.jks \
-  --ks-key-alias willie-key \
+  --ks-key-alias $ALIAS \
   --ks-pass pass:$PASSWD \
   --key-pass pass:$PASSWD \
   --out com.willie.mancala_$CODE.apk \
